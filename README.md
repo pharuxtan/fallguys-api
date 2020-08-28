@@ -113,7 +113,7 @@ achievements.getAchievement("ACH_FALL_THROTTLE");
 let articles = await fallguys.getArticles();
 articles.getArticle(0);
 
-let colors = fallguys.getColors();
+let colors = await fallguys.getColors();
 colors.getColor("Bubblegum");
 colors.getLegendaryColor("Bumblebee");
 colors.getEpicColor("Steel");
@@ -121,7 +121,7 @@ colors.getRareColor("Raspberry");
 colors.getUncommonColor("Bubblegum");
 colors.getCommonColor("Beach Ball");
 
-let daily = fallguys.getDaily();
+let daily = await fallguys.getDaily();
 daily.pcStore[0];
 daily.ps4Store[0];
 daily.getFirstPCItem();
