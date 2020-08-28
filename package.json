@@ -1,0 +1,26 @@
+{
+  "name": "fallguys-api",
+  "version": "1.0.0",
+  "description": "A node fall guys api",
+  "main": "lib/fallguys.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pharuxtan/fallguys-api.git"
+  },
+  "keywords": [
+    "fall",
+    "fallguys",
+    "guys",
+    "api",
+    "esportinfo"
+  ],
+  "author": "Pharuxtan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pharuxtan/fallguys-api/issues"
+  },
+  "homepage": "https://github.com/Pharuxtan/fallguys-api#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
