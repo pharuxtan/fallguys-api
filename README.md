@@ -76,7 +76,7 @@ The img of the skin (preview: <img width="20" src="https://cdn.esportinfo.gg/fal
 ### rarity
 The rarity of the skin (all rarity: Legendary, Epic, Rare, Uncommon, Common)
 ### acquire
-Where the skin is obtainable (all acquire: Store, Starter, Rewards, DLC, Battle Pass)\
+Where the skin is obtainable (all acquire: Store, Starter, Rewards, DLC, Battle Pass, Leaked)\
 if acquire is DLC or Store you have the price and the currency (Crown, Kudos, USD)\
 if acquire is Battle Pass you have the season and the tier
 
@@ -91,7 +91,7 @@ The upper img of the skin (preview: <img width="20" src="https://cdn.esportinfo.
 ### rarity
 The rarity of the skin (all rarity: Legendary, Epic, Rare, Uncommon, Common)
 ### acquire
-Where the skin is obtainable (all acquire: Store, Starter, Rewards, DLC, Battle Pass)\
+Where the skin is obtainable (all acquire: Store, Starter, Rewards, DLC, Battle Pass, Leaked)\
 if acquire is DLC or Store you have the price and the currency (Crown, Kudos, USD)\
 if acquire is Battle Pass you have the season and the tier
 
