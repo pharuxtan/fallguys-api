@@ -102,12 +102,14 @@ The array for all skin in the pc store
 ### ps4Store
 The array for all skin in the ps4 store
 
-## Rounds
+## Round
 
 ## name
 The name of the round (example: Dizzy Heights)
 ## description
 The description of the round
+## goal
+How to finish the round (for Team and Final type)
 ## size
 The size of the round (all sizes: Small, Medium, Large)
 ## type
