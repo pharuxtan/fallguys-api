@@ -91,16 +91,37 @@ The upper img of the skin (preview: <img width="20" src="https://cdn.esportinfo.
 ### rarity
 The rarity of the skin (all rarity: Legendary, Epic, Rare, Uncommon, Common)
 ### acquire
-Where the skin is obtainable (all acquire: Store, Starter, Rewards, DLC, Battle Pass, Leaked)\
+Where the skin is obtainable (all acquires: Store, Starter, Rewards, DLC, Battle Pass, Leaked)\
 if acquire is DLC or Store you have the price and the currency (Crown, Kudos, USD)\
 if acquire is Battle Pass you have the season and the tier
 
 ## Daily
 
 ### pcStore
-the array for all skin in the pc store
+The array for all skin in the pc store
 ### ps4Store
-the array for all skin in the ps4 store
+The array for all skin in the ps4 store
+
+## Rounds
+
+## name
+The name of the round (example: Dizzy Heights)
+## description
+The description of the round
+## size
+The size of the round (all sizes: Small, Medium, Large)
+## type
+The type of the round (all types: Race, Survival, Team, Final);
+## designer
+The designer of the round (example: Joseph Juson)
+## thumbnail
+The thumbnail of the round (preview: <img width="20" src="https://images.ctfassets.net/vsmfukibxsuz/6RFRPl1i0AcFDrMbS9yPPg/c82c34c18533c76cbd46623523ce9c5c/dizzy-heights-thumb.png"> )
+## backgroundImage
+The background image of the round
+## socialShareImage
+The social share image of the round (preview: <img width="20" src="https://images.ctfassets.net/vsmfukibxsuz/2aq0UIEuBQHtmMr79XVsGR/a041221fa44b34bdcbb8a77b105d763f/dizzy-heights-social.jpg"> )
+## blurredBackground
+The blurred background image of the round (preview: <img width="20" src="https://images.ctfassets.net/vsmfukibxsuz/60iRnNMZoa0hu3G7RVEdOp/b21b7e7f3a40b376efb52216e33fb7ee/dizzy-heights-bg-small.jpg"> )
 
 ## Examples
 
