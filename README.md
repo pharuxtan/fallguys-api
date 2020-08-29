@@ -151,4 +151,8 @@ daily.getThirdPCItem();
 daily.getFirstPS4Item();
 daily.getSecondPS4Item();
 daily.getThirdPS4Item();
+
+let rounds = await fallguys.getRounds();
+rounds.getRound(0);
+rounds.getRound("Dizzy Heights");
 ```
