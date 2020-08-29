@@ -1,6 +1,6 @@
 # fallguys-api
 ### Not affiliated with Fall Guys.
-### All data is taken from [fallguys.esportinfo.gg](https://fallguys.esportinfo.gg)
+### All data is taken from [fallguys.esportinfo.gg](https://fallguys.esportinfo.gg) and [fallguys.com](https://fallguys.com)
 ## Installation
 
 **install package**
