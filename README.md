@@ -8,7 +8,7 @@
 npm install fallguys-api
 ```
 **require package in project**
-```
+```js
 const fallguys = require('fallguys-api');
 ```
 
@@ -67,7 +67,7 @@ The thumbnail of the article (preview: <img width="20" src="http://a.storyblok.c
 ### description
 The description of the article (example: Fall Guys: First Patch, new level: Jump  Showdown added and plenty of bugs fixed.)
 
-## Colors, Emotes, Celebrations, Faces, FreeSkins, Patterns
+## Color, Emote, Celebration, Face, FreeSkin, Pattern
 
 ### name
 The name of the skin (example: Raptor)
@@ -80,10 +80,12 @@ Where the skin is obtainable (all acquire: Store, Starter, Rewards, DLC, Battle 
 if acquire is DLC or Store you have the price and the currency (Crown, Kudos, USD)\
 if acquire is Battle Pass you have the season and the tier
 
-## Skins
+## Skin
 
 ### name
 The name of the skin (example: Raptor)
+### uid
+Add an id for detect daily store change (only on Daily)
 ### upperImg
 The upper img of the skin (preview: <img width="20" src="https://cdn.esportinfo.gg/fallguy/img/skins/Raptor-Upper.png">)
 ### lowerImg
