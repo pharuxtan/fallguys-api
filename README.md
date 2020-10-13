@@ -26,6 +26,12 @@ Get all articles
 Get all skins colors
 ### getEmotes()
 Get all emotes
+### getNicknames()
+Get all nicknames
+### getNameplates()
+Get all nameplates
+### getSeasonpass()
+Get all items of a specific season pass
 ### getCelebrations()
 Get all Celebrations
 ### getFaces()
@@ -67,11 +73,11 @@ The thumbnail of the article (preview: <img width="20" src="http://a.storyblok.c
 ### description
 The description of the article (example: Fall Guys: First Patch, new level: Jump  Showdown added and plenty of bugs fixed.)
 
-## Color, Emote, Celebration, Face, FreeSkin, Pattern
+## Color, Emote, Celebration, Face, FreeSkin, Pattern, Nameplate, Nickname
 
 ### name
 The name of the skin (example: Raptor)
-### img
+### img (not in Nickname)
 The img of the skin (preview: <img width="20" src="https://cdn.esportinfo.gg/fallguy/img/skins/Raptor-Color.png">)
 ### rarity
 The rarity of the skin (all rarity: Legendary, Epic, Rare, Uncommon, Common)
@@ -126,6 +132,31 @@ The background image of the round
 The social share image of the round (preview: <img width="20" src="https://images.ctfassets.net/vsmfukibxsuz/2aq0UIEuBQHtmMr79XVsGR/a041221fa44b34bdcbb8a77b105d763f/dizzy-heights-social.jpg"> )
 ## blurredBackground
 The blurred background image of the round (preview: <img width="20" src="https://images.ctfassets.net/vsmfukibxsuz/60iRnNMZoa0hu3G7RVEdOp/b21b7e7f3a40b376efb52216e33fb7ee/dizzy-heights-bg-small.jpg"> )
+
+## Seasonpass
+
+## season
+The season of the season pass (example: 1)
+## items
+All the items of the season pass
+## colors
+All the colors of the season pass
+## patterns
+All the patterns of the season pass
+## skins
+All the skins of the season pass
+## faces
+All the faces of the season pass
+## currencys
+All the currencys of the season pass
+## celebrations
+All the celebrations of the season pass
+## emotes
+All the emotes of the season pass
+## nicknames
+All the nicknames of the season pass
+## nameplates
+All the nameplates of the season pass
 
 ## Examples
 
